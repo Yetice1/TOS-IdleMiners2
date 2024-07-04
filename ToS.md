@@ -1,7 +1,7 @@
 
 TERMS OF SERVICE AGREEMENT
 
-This Terms of Service Agreement of the Idle Miners 2 Discord bot.
+This Terms of Service Agreement of the "Idle Miners 2" Discord bot.
 
 By using the Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.
 
